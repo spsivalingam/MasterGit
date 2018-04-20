@@ -1,0 +1,156 @@
+Get that job at Google
+I've been meaning to write up some tips on interviewing at Google for a good long time
+now. I keep putting it off, though, because it's going to make you mad. Probably. For
+some statistical definition of "you", it's very likely to upset you.
+Why? Because... well, here, I wrote a little ditty about it:
+Hey man, I don't know that stuff
+Stevey's talking aboooooout
+If my boss thinks it's important
+I'm gonna get fiiiiiiiiiired
+Oooh yeah baaaby baaaay-beeeeee....
+I didn't realize this was such a typical reaction back when I first started writing about
+interviewing, way back at other companies. Boy-o-howdy did I find out in a hurry.
+See, it goes like this:
+Me: blah blah blah, I like asking question X in interviews, blah blah blah...
+You: Question X? Oh man, I haven't heard about X since college! I've never needed it for
+my job! He asks that in interviews? But that means someone out there thinks it's
+important to know, and, and... I don't know it! If they detect my ignorance, not only will
+I be summarily fired for incompetence without so much as a thank-you, I will also be
+unemployable by people who ask question X! If people listen to Stevey, that will be
+everyone! I will become homeless and destitute! For not knowing something I've never
+needed before! This is horrible! I would attack X itself, except that I do not want to pick
+up a book and figure enough out about it to discredit it. Clearly I must yell a lot about
+how stupid Stevey is so that nobody will listen to him!
+Me: So in conclusion, blah blah... huh? Did you say "fired"? "Destitute?" What are you
+talking about?
+insecurity about either interviewing in general or their knowledge of their own name,
+hopefully the former.
+But THEN, time passes, and interview candidates come and go, and we always wind up
+saying: "Gosh, we sure wish that obviously smart person had prepared a little better for
+his or her interviews. Is there any way we can help future candidates out with some
+tips?"
+And then nobody actually does anything, because we're all afraid of getting stabbed
+violently by People Who Don't Know X.
+I considered giving out a set of tips in which I actually use variable names like X, rather
+than real subjects, but decided that in the resultant vacuum, everyone would get upset.
+Otherwise that approach seemed pretty good, as long as I published under a pseudonym.
+In the end, people really need the tips, regardless of how many feelings get hurt along the
+way. So rather than skirt around the issues, I'm going to give you a few mandatory
+substitutions for X along with a fair amount of general interview-prep information.
+Caveats and Disclaimers
+This blog is not endorsed by Google. Google doesn't know I'm publishing these tips. It's
+just between you and me, OK? Don't tell them I prepped you. Just go kick ass on your
+interviews and we'll be square.
+I'm only talking about general software engineering positions, and interviews for those
+positions.
+These tips are actually generic; there's nothing specific to Google vs. any other software
+company. I could have been writing these tips about my first software job 20 years ago.
+That implies that these tips are also timeless, at least for the span of our careers.
+These tips obviously won't get you a job on their own. My hope is that by following them
+you will perform your very best during the interviews.
+Oh, and um, why Google?
+Oho! Why Google, you ask? Well let's just have that dialog right up front, shall we?
+You: Should I work at Google? Is it all they say it is, and more? Will I be serenely happy
+there? Should I apply immediately?
+Me: Yes
+people here and nobody at Google! I would have to learn Google's build system and
+technology and stuff! I have no credibility, no reputation there – I would have to start
+over virtually from scratch! I waited too long, there's no upside! I'm afraaaaaaid!
+Me: DUDE. The answer is Yes already, OK? It's an invariant. Everyone else who came to
+Google was in the exact same position as you are, modulo a handful of famous people
+with beards that put Gandalf's to shame, but they're a very tiny minority. Everyone who
+applied had the same reasons for not applying as you do. And everyone here says:
+"GOSH, I SURE AM HAPPY I CAME HERE!" So just apply already. But prep first.
+You: But what if I get a mistrial? I might be smart and qualified, but for some random
+reason I may do poorly in the interviews and not get an offer! That would be a huge blow
+to my ego! I would rather pass up the opportunity altogether than have a chance of
+failure!
+Me: Yeah, that's at least partly true. Heck, I kinda didn't make it in on my first attempt,
+but I begged like a street dog until they gave me a second round of interviews. I caught
+them in a weak moment. And the second time around, I prepared, and did much better.
+The thing is, Google has a well-known false negative rate, which means we sometimes
+turn away qualified people, because that's considered better than sometimes hiring
+unqualified people. This is actually an industry-wide thing, but the dial gets turned
+differently at different companies. At Google the false-negative rate is pretty high. I don't
+know what it is, but I do know a lot of smart, qualified people who've not made it
+through our interviews. It's a bummer.
+But the really important takeaway is this: if you don't get an offer, you may still be
+qualified to work here. So it needn't be a blow to your ego at all!
+As far as anyone I know can tell, false negatives are completely random, and are
+unrelated to your skills or qualifications. They can happen from a variety of factors,
+including but not limited to:
+1. you're having an off day
+2. one or more of your interviewers is having an off day
+3. there were communication issues invisible to you and/or one or more of the
+interviewers
+4. you got unlucky and got an Interview Anti-Loop
+Oh no, not the Interview Anti-Loop!
+Yes, I'm afraid you have to worry about this.
+What is it, you ask? Well, back when I was at Amazon, we did (and they undoubtedly still
+First, you can't tell interviewers what's important. Not at any company. Not unless
+they're specifically asking you for advice. You have a very narrow window of perhaps one
+year after an engineer graduates from college to inculcate them in the art of interviewing,
+after which the window closes and they believe they are a "good interviewer" and they
+don't need to change their questions, their question styles, their interviewing style, or
+their feedback style, ever again.
+It's a problem. But I've had my hand bitten enough times that I just don't try anymore.
+Second problem: every "experienced" interviewer has a set of pet subjects and possibly
+specific questions that he or she feels is an accurate gauge of a candidate's abilities. The
+question sets for any two interviewers can be widely different and even entirely nonoverlapping.
+A classic example found everywhere is: Interviewer A always asks about C++ trivia,
+filesystems, network protocols and discrete math. Interviewer B always asks about Java
+trivia, design patterns, unit testing, web frameworks, and software project management.
+For any given candidate with both A and B on the interview loop, A and B are likely to
+give very different votes. A and B would probably not even hire each other, given a
+chance, but they both happened to go through interviewer C, who asked them both about
+data structures, unix utilities, and processes versus threads, and A and B both happened
+to squeak by.
+That's almost always what happens when you get an offer from a tech company. You just
+happened to squeak by. Because of the inherently flawed nature of the interviewing
+process, it's highly likely that someone on the loop will be unimpressed with you, even if
+you are Alan Turing. Especially if you're Alan Turing, in fact, since it means you
+obviously don't know C++.
+The bottom line is, if you go to an interview at any software company, you should plan
+for the contingency that you might get genuinely unlucky, and wind up with one or more
+people from your Interview Anti-Loop on your interview loop. If this happens, you will
+struggle, then be told that you were not a fit at this time, and then you will feel bad. Just
+as long as you don't feel meta-bad, everything is OK. You should feel good that you feel
+bad after this happens, because hey, it means you're human.
+And then you should wait 6-12 months and re-apply. That's pretty much the best
+solution we (or anyone else I know of) could come up with for the false-negative
+problem. We wipe the slate clean and start over again. There are lots of people here who
+got in on their second or third attempt, and they're kicking butt.
+You can too.
+OK, I feel better about potentially not getting hired
+like to, because I'll offend interviewers A through X who have slightly different working
+sets.
+Instead, I want to prep you for some general topics that I believe are shared by the
+majority of tech interviewers at Google-like companies. Roughly speaking, this means
+the company builds a lot of their own software and does a lot of distributed computing.
+There are other tech-company footprints, the opposite end of the spectrum being
+companies that outsource everything to consultants and try to use as much third-party
+software as possible. My tips will be useful only to the extent that the company resembles
+Google.
+So you might as well make it Google, eh?
+First, let's talk about non-technical prep.
+The Warm-Up
+Nobody goes into a boxing match cold. Lesson: you should bring your boxing gloves to
+the interview. No, wait, sorry, I mean: warm up beforehand!
+How do you warm up? Basically there is short-term and long-term warming up, and you
+should do both.
+Long-term warming up means: study and practice for a week or two before the interview.
+You want your mind to be in the general "mode" of problem solving on whiteboards. If
+you can do it on a whiteboard, every other medium (laptop, shared network document,
+whatever) is a cakewalk. So plan for the whiteboard.
+Short-term warming up means: get lots of rest the night before, and then do intense,
+fast-paced warm-ups the morning of the interview.
+The two best long-term warm-ups I know of are:
+1) Study a data-structures and algorithms book. Why? Because it is the most
+likely to help you beef up on problem identification. Many interviewers are happy when
+you understand the broad class of question they're asking without explanation. For
+instance, if they ask you about coloring U.S. states in different colors, you get major
+bonus points if you recognize it as a graph-coloring problem, even if you don't actually
+remember exactly how graph-coloring works.
+And if you do remember how it works, then you can probably whip through the answer
+pretty quickly. So your best bet, interview-prep wise, is to practice the art of recognizing
+that certain problem classes are best solved with certain algorithms and data structures.
