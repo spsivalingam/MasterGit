@@ -1,12 +1,12 @@
-4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ñ Coderbyte ñ Medium
+4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ‚Äì Coderbyte ‚Äì Medium
 https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c 1/13
 Daniel Borowski Follow
-Apr 1, 2017 ∑ 10 min read
+Apr 1, 2017 ¬∑ 10 min read
 A Guide to Becoming a Full-Stack
 Developer in 2017
 Full-Stack Web Development, according to the Stack Overow
 2016
-Developer Survey, is the most popular developer occupation today. Itís
+Developer Survey, is the most popular developer occupation today. It‚Äôs
 no wonder then that there are dozens of online and in-person programs
 that will help people become Full-Stack Developers and then even
 assist these new developers land high-paying programming jobs.
@@ -14,15 +14,15 @@ Some popular online programs can be found on Lynda, Udacity,
 Coursera, Thinkful, General Assembly, and so much more. Aside from
 these online programs, there are also in-person coding bootcamps that
 are teaching people the skills required to become web developers.
-Images havenít loaded yet. Please exit printing, wait for images to load, and try to
+Images haven‚Äôt loaded yet. Please exit printing, wait for images to load, and try to
 print again
-4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ñ Coderbyte ñ Medium
+4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ‚Äì Coderbyte ‚Äì Medium
 https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c 2/13
-In this article I wonít be discussing which websites or coding bootcamps
+In this article I won‚Äôt be discussing which websites or coding bootcamps
 have the best web development programs, instead I will be providing a
 denitive
 guide to what I believe are the most important skills required
-to become a Full-Stack Web Developer today and land a job if youíve
+to become a Full-Stack Web Developer today and land a job if you‚Äôve
 never coded before. I will be basing the list o
 of three things:
 A combination of what most programs in 2017 are teaching students.
@@ -36,7 +36,7 @@ programming jobs (see below).
 1.
 2.
 
-4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ñ Coderbyte ñ Medium
+4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ‚Äì Coderbyte ‚Äì Medium
 https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c 3/13
 The Denitive
 Guide
@@ -46,7 +46,7 @@ refers to the portion of an application the user will see or interact with,
 and the back-end is the part of the application that handles the logic,
 database interactions, user authentication, server conguration,
 etc.
-Being a Full-Stack Developer doesnít mean that you have necessarily
+Being a Full-Stack Developer doesn‚Äôt mean that you have necessarily
 mastered everything required to work with the front-end or back-end,
 but it means that you are able to work on both sides and understand
 what is going on when building an application.
@@ -60,13 +60,13 @@ teaching you how to be a web developer will start with HTML and CSS
 because they are the building blocks of the web. Simply put, HTML
 allows you to add content to a website and CSS is what allows you to
 style your content. The following topics related to HTML/CSS come up
-often in interviews and on the actual job when youíre working:
-ï Semantic HT
-4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ñ Coderbyte ñ Medium
+often in interviews and on the actual job when you‚Äôre working:
+‚Ä¢ Semantic HT
+4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ‚Äì Coderbyte ‚Äì Medium
 https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c 4/13
 Be able to explain the CSS Box Model.
 Benets
-of CSS preprocessors (you donít necessarily need to
+of CSS preprocessors (you don‚Äôt necessarily need to
 understand how to use one on a deep level, but you should to
 understand what they are for and how they help with
 development).
@@ -75,7 +75,7 @@ devices and write responsive
 CSS.
 Bootstrap (a framework for helping design and layout content on a
 page and while many online programs or schools focus heavily on
-teaching Bootstrap, in reality itís more important to have a deep
+teaching Bootstrap, in reality it‚Äôs more important to have a deep
 knowledge of fundamental CSS than specic
 Bootstrap features
 and methods).
@@ -85,12 +85,12 @@ libraries, frameworks, and tools are constantly being released. Based
 on the Stack Overow
 2016 Developer Survey, JavaScript is the most
 popular language in both Full-Stack, Front-end, and Back-end
-Development. Itís the only language that runs natively in the browser,
-and can double up as a server-side language as well (as youíll see below
-ï
-ï
+Development. It‚Äôs the only language that runs natively in the browser,
+and can double up as a server-side language as well (as you‚Äôll see below
+‚Ä¢
+‚Ä¢
 
-4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ñ Coderbyte ñ Medium
+4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ‚Äì Coderbyte ‚Äì Medium
 https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c 5/13
 with Node.js). Below are some topics you need to understand as a FullStack
 Developer:
@@ -107,46 +107,46 @@ denitely
 be helpful to know.
 Know how to use at least one popular framework (many programs
 will focus heavily on teaching you a library or framework like
-React or AngularJS, but in reality itís much more important to
+React or AngularJS, but in reality it‚Äôs much more important to
 have a deep understanding of the JavaScript language and not
 focus so much on framework-specic
 features. Once you have a
 good understanding of JavaScript, picking up a framework that
-sits on top of it wonít be too hard anyway).
+sits on top of it won‚Äôt be too hard anyway).
 Although some may argue that you should be using this less or
-that itís slowly dying, jQuery code still exists in most applications
+that it‚Äôs slowly dying, jQuery code still exists in most applications
 and a solid understanding of it will be helpful.
-Some knowledge on testing frameworks and why theyíre
+Some knowledge on testing frameworks and why they‚Äôre
 important (some may even claim that this topic should be
 optional).
 Learn about some important new ES6 features (optional).
 3. Back-End Language
-Once you feel youíve gotten a good grasp on HTML/CSS and
-JavaScript, youíll want to move on to a back-end language that will
+Once you feel you‚Äôve gotten a good grasp on HTML/CSS and
+JavaScript, you‚Äôll want to move on to a back-end language that will
 handle things like database operations, user authentication, and
 application logic. All online programs and bootcamps usually focus on a
 specic
-back-end language, and in reality in doesnít matter which one
+back-end language, and in reality in doesn‚Äôt matter which one
 you learn so much as long as you understand what is going on and you
-learn the nuances of your chosen language. Youíll get a ton of dierent
+learn the nuances of your chosen language. You‚Äôll get a ton of dierent
 responses if you ask someone which back-end language is the best to
-ï
-ï
-ï
-ï
-ï
-ï
-4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ñ Coderbyte ñ Medium
+‚Ä¢
+‚Ä¢
+‚Ä¢
+‚Ä¢
+‚Ä¢
+‚Ä¢
+4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ‚Äì Coderbyte ‚Äì Medium
 https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c 6/13
-learn, so below Iíve listed a few popular combinations. An important
+learn, so below I‚Äôve listed a few popular combinations. An important
 note: whichever you decide to learn, just stick with it and learn as
-much as you can about itóthere are jobs out there for all the languages
+much as you can about it‚Äîthere are jobs out there for all the languages
 listed below.
 Node.js: This is a great option because Node.js is itself just a
-JavaScript environment which means you donít need to learn a
+JavaScript environment which means you don‚Äôt need to learn a
 new language. This is a big reason why a lot of online programs
 and bootcamps choose to teach Node.js. The most popular
-framework youíd most likely learn to aid you in developing web
+framework you‚Äôd most likely learn to aid you in developing web
 applications is Express.
 Ruby: Some popular frameworks for developing in Ruby are Rails
 and Sinatra. Plenty of programs teach Ruby as a rst
@@ -154,13 +154,13 @@ back-end
 language.
 Python: Some popular frameworks for developing in Python are
 Django and Flask.
-Java: The Java language isnít taught so much these days when it
+Java: The Java language isn‚Äôt taught so much these days when it
 comes to Full-Stack Web Development, but some companies do
-ï
-ï
-ï
+‚Ä¢
+‚Ä¢
+‚Ä¢
 
-4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ñ Coderbyte ñ Medium
+4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ‚Äì Coderbyte ‚Äì Medium
 https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c 7/13
 use Java as their back-end and it is still a very in-demand language
 (see image above).
@@ -168,7 +168,7 @@ PHP: PHP is rarely taught in programs these days, but just like
 with Java, it is still very in-demand and it is a cornerstone of the
 web today.
 4.Databases & Web Storage
-When learning to build web applications, at some point youíll probably
+When learning to build web applications, at some point you‚Äôll probably
 want to store data somewhere and then access it later. You should have
 a good grasp on the following topics related to databases and storage.
 Understand the benets
@@ -182,17 +182,17 @@ of in-memory data stores like Redis or
 memcached.
 Web storage to store sessions, cookies, and cached data in the
 browser.
-ï
-ï
-ï
-ï
-ï
-ï
-4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ñ Coderbyte ñ Medium
+‚Ä¢
+‚Ä¢
+‚Ä¢
+‚Ä¢
+‚Ä¢
+‚Ä¢
+4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ‚Äì Coderbyte ‚Äì Medium
 https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c 8/13
 Scaling databases, ACID, and ORM (all optional).
 5.HTTP & REST
-HTTP is a stateless application protocol on the Internetóitís what
+HTTP is a stateless application protocol on the Internet‚Äîit‚Äôs what
 allows clients to communicate with servers (e.g. your JavaScript code
 can make an AJAX request to some back-end code you have running on
 a server which will happen via HTTP). Some important topics you
@@ -205,19 +205,19 @@ What are SSL Certicates.
 HTTP/2 & SPDY (optional).
 WebSockets, Web Workers, and Service Workers (all optional).
 6. Web Application Architecture
-ï
-ï
-ï
-ï
-ï
-ï
+‚Ä¢
+‚Ä¢
+‚Ä¢
+‚Ä¢
+‚Ä¢
+‚Ä¢
 
-4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ñ Coderbyte ñ Medium
+4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ‚Äì Coderbyte ‚Äì Medium
 https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c 9/13
 Once you think you have a grasp on HTML/CSS, JavaScript, back-end
 programming, databases, and HTTP/REST, then comes the tricky part.
 At this point if you want to create a somewhat complex web
-application, youíll need to know how to structure your code, how to
+application, you‚Äôll need to know how to structure your code, how to
 separate your les,
 where to host your large media les,
 how to
@@ -225,17 +225,17 @@ structure the data in your database, where to perform certain
 computational tasks (client-side vs server-side), and much more.
 There are best practices that you can read about online on, but the best
 way to actually learn about application architecture is by working on a
-large application yourself that contains several moving partsóor even
+large application yourself that contains several moving parts‚Äîor even
 better, working on a team and together developing a somewhat
 large/complex application.
 This is why, for example, someone with 7+ years of experience may not
 necessarily know CSS or JavaScript better than someone with 2 years
-of experience, but over all of those years theyíve presumably worked
+of experience, but over all of those years they‚Äôve presumably worked
 with all sorts of dierent
 applications and websites and have learned
 how to architect and design applications (among learning other
 important things) to be most ecient
-and can see the ìbig pictureî
+and can see the ‚Äúbig picture‚Äù
 when it comes to development. Below are some things you can read
 that will help you learn how to architect your web applications
 eciently:
@@ -245,7 +245,7 @@ application up and running with very little conguration
 or server
 maintenance and AWS oers
 dozens of products and service
-4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ñ Coderbyte ñ Medium
+4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ‚Äì Coderbyte ‚Äì Medium
 https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c 10/13
 help with storage, video processing, load balancing, and much
 more.
@@ -259,28 +259,28 @@ people, look at codebases of popular projects on GitHub, and learn
 as much as you can from senior developers.
 7.Git
 Git is a version control system that allows developers working on a
-team to keep track of all the changes being made to a codebase. Itís
+team to keep track of all the changes being made to a codebase. It‚Äôs
 important to know a few important things related to Git so that you
-understand how to properly get the latest code that youíve missed,
+understand how to properly get the latest code that you‚Äôve missed,
 update parts of the code, make xes,
-and change other peopleís code
+and change other people‚Äôs code
 without breaking things. You should denitely
 learn the concept
 behind Git and play around with it yourself.
-Hereís a reference list of some common git commands youíll likely
+Here‚Äôs a reference list of some common git commands you‚Äôll likely
 use.
-Hereís a tutorial on using Git and GitHub for beginners.
+Here‚Äôs a tutorial on using Git and GitHub for beginners.
 8. Basic Algorithms & Data Structures
-ï
-ï
-ï
-ï
-ï
-ï
-4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ñ Coderbyte ñ Medium
+‚Ä¢
+‚Ä¢
+‚Ä¢
+‚Ä¢
+‚Ä¢
+‚Ä¢
+4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ‚Äì Coderbyte ‚Äì Medium
 https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c 11/13
 This topic is somewhat polarizing in the development world because
-there are developers who donít think there should be such a heavy
+there are developers who don‚Äôt think there should be such a heavy
 focus on computer science topics like tree traversal, sorting, algorithm
 analysis, matrix manipulation, etc. in web development. However,
 there are companies like Google that are notorious for asking these
@@ -306,27 +306,28 @@ Study hash tables and try to understand them on a deeper level.
 This data structure underlies objects in JavaScript (dictionaries in
 Python and hashes in Ruby).
 
-4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ñ Coderbyte ñ Medium
+4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ‚Äì Coderbyte ‚Äì Medium
 https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c 12/13
 Understand how trees and graphs can be benecial
 as data
 structures.
-Understand the basics of Big-O analysis so you donít do silly things
-like create a nested loop 3 levels down if you donít need to!
+Understand the basics of Big-O analysis so you don‚Äôt do silly things
+like create a nested loop 3 levels down if you don‚Äôt need to!
 Know when to use an object vs an array and understand the tradeos.
 Learn why caching is so important when working with a large
 amount of data. Also learn the pros and cons of in-memory vs disk
 storage.
 Learn the dierence
 between queues and stacks.
-ï
-ï
-ï
-ï
-ï
+‚Ä¢
+‚Ä¢
+‚Ä¢
+‚Ä¢
+‚Ä¢
 . . .
-Itíll be hard work learning all of this, but itís rewarding in the end and
+It‚Äôll be hard work learning all of this, but it‚Äôs rewarding in the end and
 Full-Stack Development is fun! Leave your comments below, and check
 out Coderbyte for some algorithm practi
-4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ñ Coderbyte ñ Medium
+4/20/2018 A Guide to Becoming a Full-Stack Developer in 2017 ‚Äì Coderbyte ‚Äì Medium
 https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c 13/13
+nice habit machi
